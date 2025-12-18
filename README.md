@@ -1,4 +1,4 @@
-# AI Optimization – Health Risk Score Prediction
+# ML Health Risk Score Prediction
 
 This project focuses on building and comparing machine learning regression models to predict a **health risk score** based on structured health-related data.
 
